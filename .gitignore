@@ -5,9 +5,11 @@ data/
 dataset/
 invoice/
 invoice_train/
-run/
+runs/
 *.pt
 *.onnx
 *.jpg
 *.jpeg
 *.png
+.DS_Store
+._.DS_Store
