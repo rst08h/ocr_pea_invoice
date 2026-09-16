@@ -1,0 +1,13 @@
+.ocr/
+crop/
+cropped_results/
+data/
+dataset/
+invoice/
+invoice_train/
+run/
+*.pt
+*.onnx
+*.jpg
+*.jpeg
+*.png
