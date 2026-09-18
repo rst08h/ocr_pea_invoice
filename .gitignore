@@ -6,6 +6,7 @@ dataset/
 invoice/
 invoice_train/
 runs/
+misc/
 *.pt
 *.onnx
 *.jpg
